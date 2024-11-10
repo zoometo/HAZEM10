@@ -29,10 +29,12 @@ color: rgba(30, 144, 226, 0.945);
 text-transform: uppercase;
 font-weight: 700;
 font-size: 1.8em;
+    transition: 0.5s;
 
 }
 .logo:hover{
     color: rgb(75, 75, 214);
+    transform: scale(1.1);
 }
 
 .navigation a{
@@ -41,10 +43,12 @@ font-size: 1.8em;
  font-size: 1.1em;
  font-weight: 500;
  padding-left: 30px;
+    transition: 0.5s;
 }
 
 .navigation a:hover{
     color: blue;
+    transform: scale(1.1);
 }
 section{
     padding: 100px 200px;

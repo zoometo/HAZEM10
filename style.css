@@ -29,7 +29,7 @@ color: rgba(30, 144, 226, 0.945);
 text-transform: uppercase;
 font-weight: 700;
 font-size: 1.8em;
-    transition: 0.5s;
+transition: 0.5s;
 
 }
 .logo:hover{
@@ -43,12 +43,12 @@ font-size: 1.8em;
  font-size: 1.1em;
  font-weight: 500;
  padding-left: 30px;
-    transition: 0.5s;
+ transition: 0.5s;
 }
 
 .navigation a:hover{
     color: blue;
-    transform: scale(1.1);
+     transform: scale(1.1);
 }
 section{
     padding: 100px 200px;
@@ -70,7 +70,7 @@ section{
      transition: 0.5s;
 }
 .main h2:hover{
-   color: rgb(8, 16, 55);
+    color:  rgb(8, 16, 55);
 
 }
 
@@ -201,6 +201,14 @@ section{
     font-weight: 600;
 
 
+}
+.video{
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 25px;
+    margin: 15px;
+   width:80em ;
 }
 
 .footer_title span{

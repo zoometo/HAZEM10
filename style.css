@@ -232,6 +232,11 @@ section{
      .main h2 {
     font-size: 1em;
      }
+     .video{
+        width: 35em;
+        display: flex;
+        align-items: center;
+     }
 
 
 
